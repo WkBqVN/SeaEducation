@@ -1,0 +1,26 @@
+server: golang with docker for start multiple
+web and app is use API from docker but which should use
+
+handle video and voice call
+
+app maybe c# or linux provide vmware if need (plugins)
+pdf view and work view
+logic chart for helper
+
+coding view on hacker rank
+alarm
+
+pdf view, docstored, email or chat required
+
+executeable excercise
+
+
+1st:
+-> make pdf view tool reader(provide 2 spilit tab) with todo noted 
+
+1. configure out how tab container(tab container handle diff app with diff size) work
+2. display 2 tab of pdf or just 1 pdf 1 todo
+3. support to 4 tab layout at split
+
+->flexiable layout
+1. drag tab container out to make new as a window app
