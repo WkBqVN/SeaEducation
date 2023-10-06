@@ -1,0 +1,9 @@
+# ninja log v5
+0	511	1696564370145463758	SeaEducationApp_autogen/timestamp	48eb02e9ec0c6915
+0	511	1696564370145463758	SeaEducationApp_autogen/mocs_compilation.cpp	48eb02e9ec0c6915
+0	511	1696564370145463758	/Users/khoavo/Projects/SeaEducation/build-SeaEducationApp-Qt_6_5_3_for_macOS-Debug/SeaEducationApp_autogen/timestamp	48eb02e9ec0c6915
+0	511	1696564370145463758	/Users/khoavo/Projects/SeaEducation/build-SeaEducationApp-Qt_6_5_3_for_macOS-Debug/SeaEducationApp_autogen/mocs_compilation.cpp	48eb02e9ec0c6915
+531	1783	1696564371440450684	CMakeFiles/SeaEducationApp.dir/SeaEducationApp_autogen/mocs_compilation.cpp.o	a266d2154d917ab4
+532	1802	1696564371462262137	CMakeFiles/SeaEducationApp.dir/main.cpp.o	ee2c3f2e368219db
+533	1832	1696564371492077410	CMakeFiles/SeaEducationApp.dir/mainwindow.cpp.o	7c5f66525c56ebc8
+1832	1963	1696564371632377068	SeaEducationApp.app/Contents/MacOS/SeaEducationApp	ad4f4aa0f7669c6e
